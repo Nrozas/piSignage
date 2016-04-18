@@ -15,15 +15,15 @@ msgstr ""
 #: public/app/partials/groups/_details.html:23
 #: public/app/partials/groups/_details.html:38
 msgid "-- choose playlist --"
-msgstr ""
+msgstr "-- Elija lista de reproducción --"
 
 #: public/app/partials/server/_reports.html:28
 msgid "-- for player --"
-msgstr ""
+msgstr "-- para el reproductor --"
 
 #: public/app/partials/server/_reports.html:11
 msgid "-- get monthly report for --"
-msgstr ""
+msgstr "-- Consiga el reporte mensual para --"
 
 #: public/app/partials/server/_player.html:45
 msgid "--No TZ--"
@@ -31,42 +31,42 @@ msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:17
 msgid "--Select a Group--"
-msgstr ""
+msgstr "--Seleccione un grupo--"
 
 #: public/app/templates/registerPlayerPopup.html:37
 msgid "--Select a Timezone--"
-msgstr ""
+msgstr "--Seleccione una zona horaria--"
 
 #: public/app/partials/playlists/_playlist.html:12
 msgid "(drag icon to rearrange)"
-msgstr ""
+msgstr "(arrastre los iconos para organizarlos)"
 
 #: public/app/partials/groups/_details.html:50
 msgid "(New changes not yet deployed)"
-msgstr ""
+msgstr "(Los nuevos cambios aun no se han implementados)"
 
 #: public/app/templates/displaySet.html:52
 msgid "(only in pi 2)"
-msgstr ""
+msgstr "(solo en pi 2)"
 
 #: public/app/partials/user/_subscriptions.html:13
 #: public/app/partials/user/_subscriptions.html:68
 msgid "(purchases will be updated within a day)"
-msgstr ""
+msgstr "(las xcompras seran actualizadas en un día )"
 
 #: public/app/js/controllers/assets.js:61
 msgid "% done"
-msgstr ""
+msgstr "% acabado"
 
 #: public/app/js/services/pi.js:64
 msgid "Abort uploading files to '"
-msgstr ""
+msgstr "Cancelar la subidad de archivos a '"
 
 #: public/app/partials/groups/_details.html:29
 #: public/app/partials/groups/_groups.html:9
 #: public/app/partials/playlists/_list.html:9
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: public/app/partials/assets/_assets.html:23
 #: public/app/partials/groups/_groups.html:19
@@ -75,55 +75,55 @@ msgstr ""
 #: public/app/partials/server/_settings.html:9
 #: public/app/templates/collaboratorPopup.html:14
 msgid "ADD"
-msgstr ""
+msgstr "AÑADIR"
 
 #: public/app/templates/collaboratorPopup.html:3
 msgid "Add a collaborator"
-msgstr ""
+msgstr "Añadir un colaborador"
 
 #: public/app/partials/assets/_assets.html:25
 msgid "Add a Link"
-msgstr ""
+msgstr "Añadir un enlace"
 
 #: public/app/partials/assets/_assets.html:25
 msgid "Add Calendar"
-msgstr ""
+msgstr "Añadir un calendario"
 
 #: public/app/templates/tickerPopup.html:58
 msgid "Add Messages for the ticker"
-msgstr ""
+msgstr "Añadar mensajes para el teletipo"
 
 #: public/app/partials/user/_subscriptions.html:83
 msgid "Add or Renew Subscription"
-msgstr ""
+msgstr "Añadir o renovar la suscripción"
 
 #: public/app/partials/groups/_edit.html:4
 msgid "Add, Rename or delete Groups"
-msgstr ""
+msgstr "Añadir, renombrar o borrar grupos"
 
 #: public/app/partials/playlists/_edit.html:4
 msgid "Add, Rename or delete Playlists"
-msgstr ""
+msgstr "Añadir, renombrar o borrar Listas de reproducción"
 
 #: public/app/partials/assets/_linkFile.html:9
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: public/app/partials/_settings.html:59
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Ajustes avanzados"
 
 #: public/app/templates/linkFilePopup.html:7
 msgid "along with"
-msgstr ""
+msgstr "junto con"
 
 #: public/app/js/services/pi.js:58
 msgid "An unknown error occurred posting to '"
-msgstr ""
+msgstr "Un error desconocido ha ocurrido publicando en '"
 
 #: public/app/templates/displaySet.html:52
 msgid "Animation"
-msgstr ""
+msgstr "Animación"
 
 #: public/app/partials/user/_subscriptions.html:24
 #: public/app/partials/user/_subscriptions.html:78
